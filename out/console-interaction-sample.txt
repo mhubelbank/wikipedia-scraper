@@ -1,0 +1,211 @@
+Enter y/n to approve or delete each sentence.
+===================================================
+
+"After these employees have been retrenched, LIFO is used."
+N
+"When it came to choosing the side, however, certain of those players were not even sent to training, and therefore were ineligible for the renewal of their contracts."
+y
+"The question has arisen, however, of whether or not groups excluded from the application of the LRA, Section 4 of the LRA states that all employees have the rights set out in that section."
+n
+"To the extent that the legislation may limit a right in this chapter the limitation must comply with section 36(1). While the Constitution lays emphasis on the importance of freedom of association, the LRA emphasizes, protects and gives concrete content to this foundational right."
+n
+"This means that, even if the trade union is not representative, it could have organisational rights on which the parties agreed. This route generally begins with an approach by the union to the employer, and a request that it grant the union organisational rights."
+y
+"The employee must therefore have rendered a service to another which services are not that Two subsequent decisions of the Labour Court, in Jack v Director-General, Department of Environmental Affairs have taken a different approach. The rights and remedies of a job applicant were considered in Jack, where the employer breached the contract by not allowing the party to commence work on the agreed date."
+n
+
+SOURCE: "South African labour law"
+COUNT: 3 shorts, 3 longs
+
+===================================================
+
+"The medal For Courage which was awarded at a rate of 1.4 medals per day between September 2008 and August 2014 increased to 6.3 medals per day between August 2014 and November 2015."
+n
+"However, Yanukovich signed a new lease and expanded allowable troop presence as well as allowing troops to train in the Kerch peninsula."
+n
+"Automatic weapons are everywhere."
+n
+"The dislocation of the Russian armed forces in Crimea was not disclosed clearly to public which led to several incidents like the 2005 conflict near Sarych cape lighthouse. According to original treaty on division of the Soviet Black Sea Fleet signed in 1997, the Russian Federation was allowed to have its military bases in Crimea until 2017, after which it had to evacuate all its military units including its portion of the Black Sea Fleet out of the Autonomous Republic of Crimea and Sevastopol."
+n
+"T-72B3 and T-90A tanks have reportedly been used near Ilovaisk, Luhansk airport and Debaltseve. Russia shelled Ukrainian units from across the border since mid-July. On 24 July, the American government stated that it had evidence that the Russian military was firing on Ukrainian territory from across the border."
+n
+"They took part in the battle on 12–14 February. A report by Igor Sutyagin published by the Royal United Services Institute in March 2015 stated that a total of 42,000 regular Russian combat troops have been involved in the fighting, with a peak strength of 10,000 in December 2014."
+n
+
+SOURCE: "Russo-Ukrainian War"
+COUNT: 5 shorts, 5 longs
+
+===================================================
+
+"Stop calling this a march, or rally, or a protest."
+n
+"Banging could be heard from outside as people attempted to breach the doors."
+n
+"Remember this day forever!"
+y
+"The exact cause of his injuries has not been made public, with investigators lacking evidence that could prove somebody caused his death. During the riot, Ashli Elizabeth Babbitt, a 35-year-old Air Force veteran from San Diego, Three others also died: Rosanne Boyland, 34, of Kennesaw, Georgia; Kevin Greeson, 55, from Athens, Alabama; and Benjamin Philips, 50, of Bloomsburg, Pennsylvania. Morale among the Capitol Police plummeted after the riots."
+n
+"The call had to be cut off when the Senate chamber was evacuated at 2:30 p. m. Sergeant-at-Arms of the Senate Michael C. Stenger accompanied a group of senators including Lindsey Graham (R-SC) and Joe Manchin (D-WV) to a secure location in a Senate office building."
+n
+"At 9:58 p. m. , the Senate rejected the objection 93–6, with only six Republicans voting in favor: Ted Cruz (TX), Josh Hawley (MO), Cindy Hyde-Smith (MS), John Neely Kennedy (LA), Roger Marshall (KS), and Tommy Tuberville (AL). At 11:08 p. m. , the House of Representatives rejected a similar motion to dispute the Arizona vote by a margin of 303–121. At 3:08 a. m. , the House of Representatives similarly rejected the motion to sustain the objection by a margin of 282–138."
+n
+
+SOURCE: "2021 storming of the United States Capitol"
+COUNT: 8 shorts, 7 longs
+
+===================================================
+
+"The danger of being disqualified is real."
+n
+"In this verse the unconditional perseverance of the saints has no place."
+y
+"That, of course, is what the entire letter is about, bringing the Christians he addresses back to proper Christian behavior."
+n
+"Paul does not describe how the temple is destroyed, but it is undoubtedly relates in some way to their boastful arrogance, their eagerness to appraise others, and their competitive partisanship—all the things that divide Christ. . . Paul allows the readers to imagine that their petty jealousies (3:3), boasting (1:29; 3:21; 4:7), arrogance (4:6, 18, 19), and quarrels (1:11; 3:3) might qualify for this bleak judgment."
+n
+"Whereas for the circumcisers Christ is necessary but not sufficient, for Paul Christ is either sufficient or else not necessary. . . . Circumcision is a gate into a way of life—obedience to the entire Law (5:3)—that has had its day but has ended with the coming of the Messiah and his Spirit (3:24)."
+n
+"Given that the audience is in the process of inheriting an unshakable kingdom, the appropriate way to worship God, then, is for all believers to show gratitude (Heb 12:28), which is the proper response beneficiaries are to show to the benefactor who gives them a gift."
+n
+
+SOURCE: "Conditional preservation of the saints"
+COUNT: 11 shorts, 9 longs
+
+===================================================
+
+"On 4 June the chief meteorologist of the 3 Air Fleet reported that weather in the channel was so poor there could be no landing attempted for two weeks."
+n
+"The Germans then hold a meeting to decide the deployment of Jewish forced labour, with the significant authority being Rahn, Rauff and Nehring."
+n
+"In 1937 he published his classic book on military tactics, Infantry Attacks, drawing on his experiences in that war."
+n
+"On 30 May Rommel resumed the offensive, attacking westwards to link with elements of Italian X Corps, which had cleared a path through the Allied minefields to establish a supply line. On 15 June Axis forces reached the coast, cutting off the escape for the Commonwealth forces still occupying the Gazala positions."
+n
+"According to Kourt von Esebeck, those German parts of Panzer Army Africa that were motorized slipped away from El Alamein, all vehicles had been taken away from Italian forces, leaving them behind, Having reached Tunisia, Rommel launched an attack against the U. S. II Corps which was threatening to cut his lines of supply north to Tunis."
+n
+"Rommel inflicted a sharp defeat on the American forces at the Kasserine Pass in February, his last battlefield victory of the war, and his first engagement against the United States Army. Rommel immediately turned back against the British forces, occupying the Mareth Line (old French defences on the Libyan border)."
+n
+
+SOURCE: "Erwin Rommel"
+COUNT: 13 shorts, 11 longs
+
+===================================================
+
+"Britannia is symbolised as a young woman with brown or golden hair, wearing a Corinthian helmet and white robes."
+n
+"The UK is also home to world-renowned symphonic orchestras and choruses such as the BBC Symphony Orchestra and the London Symphony Chorus."
+y
+"In 1960 the UK was one of the seven founding members of the European Free Trade Association (EFTA), but in 1973 it left to join the European Communities (EC)."
+y
+"with more upland and some mountainous terrain northwest of the Tees-Exe line; including the Lake District, the Pennines, Exmoor and Dartmoor."
+n
+"Notable composers of classical music from the United Kingdom and the countries that preceded it include William Byrd, Henry Purcell, Sir Edward Elgar, Gustav Holst, Sir Arthur Sullivan (most famous for working with the librettist Sir W. S. Gilbert), Ralph Vaughan Williams and Benjamin Britten, pioneer of modern British opera."
+n
+"The Great Famine in Ireland, then part of the United Kingdom, resulted in perhaps a million people migrating to Great Britain. In 2014 the immigration net increase was 318,000: Immigration was at 641,000, up from 526,000 in 2013, while the number of emigrants leaving for over a year was 323,000. Immigration is now contributing to a rising population, In 2013, approximately 208,000 foreign nationals were naturalised as British citizens, the highest number since 1962."
+y
+"The high fatalities of trench warfare caused the loss of much of a generation of men, with lasting social effects in the nation and a great disruption in the social order. After the war, Britain received the League of Nations mandate over a number of former German and Ottoman colonies."
+y
+"Turner; the portrait painters Sir Joshua Reynolds and Lucian Freud; the landscape artists Thomas Gainsborough and L. S. Lowry; the pioneer of the Arts and Crafts Movement William Morris; the figurative painter Francis Bacon; the Pop artists Peter Blake, Richard Hamilton and David Hockney; the pioneers of Conceptual art movement Art & Language; the collaborative duo Gilbert and George; the abstract artist Howard Hodgkin; and the sculptors Antony Gormley, Anish Kapoor and Henry Moore."
+n
+
+SOURCE: "United Kingdom"
+COUNT: 16 shorts, 14 longs
+
+===================================================
+
+"Honorific nicknames in popular music are terms used, most often in the media or by fans, to indicate the significance of an artist, and are often religious, familial, or (most frequently) royal and aristocratic titles, used metaphorically."
+n
+
+SOURCE: "Honorific nicknames in popular music"
+COUNT: 17 shorts, 14 longs
+
+===================================================
+
+"With each combined street and block adding up to about 260 feet (79 m), there are almost exactly 20 blocks per mile."
+n
+"(The other system in North America is the Portland Aerial Tram.)"
+n
+"Organized protests were aimed at preserving the McKim, Mead & White-designed structure completed in 1910, widely considered a masterpiece of the Beaux-Arts style and one of the architectural jewels of New York City. Parkland composes 17.8% of the borough, covering a total of 2,686 acres (10.87 km2)."
+n
+"The borough is widely acclaimed as the cradle of the modern LGBTQ rights movement, with its inception at the June 1969 Stonewall Riots in Greenwich Village, Lower Manhattan – widely considered to constitute the single most important event leading to the gay liberation movementThe borough has a place in several American idioms."
+n
+"Lincoln Center for the Performing Arts, anchoring Lincoln Square on the Upper West Side of Manhattan, is home to 12 influential arts organizations, including the Metropolitan Opera, New York City Opera, New York Philharmonic, and New York City Ballet, as well as the Vivian Beaumont Theater, the Juilliard School, Jazz at Lincoln Center, and Alice Tully Hall."
+n
+
+SOURCE: "Manhattan"
+COUNT: 18 shorts, 16 longs
+
+===================================================
+
+"Turanshah was killed by his Mamluk soldiers a month after the battle and his step-mother Shajar al-Durr became Sultana of Egypt with the Mamluk Aybak as Atabeg."
+n
+"Palestinians continued longstanding demands for the destruction of Israel or made a new demand for self-determination in a separate independent Arab state in the West Bank and Gaza Strip similar to but smaller than the original Partition area that Palestinians and the Arab League had rejected for statehood in 1947. In the course of 1973 Yom Kippur War, military forces of Egypt crossed the Suez canal and Syria to regain the Golan heights."
+n
+"Diverse commercial ties and an agriculturally based economy led to the development of new pottery forms, the cultivation of grapes, and the extensive use of bronze. A DNA analysis published in May 2020During 1550–1400 BCE, the Canaanite cities became vassals to Egypt as the Egyptian New Kingdom reunited Egypt and expanded into the Levant under Ahmose I and Thutmose I."
+n
+
+SOURCE: "History of Palestine"
+COUNT: 19 shorts, 18 longs
+
+===================================================
+
+"The data was constructed over the course of two years focusing on the city of Flint and how the data differs among neighboring cites in Michigan."
+y
+"It is also asking the court to force city and state officials to provide safe drinking water to Flint residents and require them to follow federal regulations for testing and treating water to control for lead. On February 2, 2016, a class action lawsuit in U. S. District Court was filed on behalf of Beatrice Boler, a Flint mother of two, Flint pastor Edwin Anderson with his wife, Alline Anderson, and a company, Epco Sales LLC."
+n
+
+SOURCE: "Flint water crisis"
+COUNT: 20 shorts, 19 longs
+
+===================================================
+
+"The founder of the branch was a Forcade de Rontignon for a short period prior to acquiring Biaix. The Forcade-Biaix in Pau, were Legislators at the Parliament of (Lower) Navarre, Presidents of the Chambre des Comptes of Navarre (the Court of Auditors) and officers of the Mint in Pau."
+n
+
+SOURCE: "Forcade"
+COUNT: 20 shorts, 19 longs
+
+===================================================
+
+
+SOURCE: "2019 deaths in the United States"
+COUNT: 20 shorts, 19 longs
+
+===================================================
+
+"(This is not to say that 81.9 per cent of women were working but that 7.9 per cent of the women interested/looking for work were unable to find it, a much lower figure than maybe first thought, as many women stayed home and were not in the job force in those years, especially if they were unable to find work.)"
+n
+
+SOURCE: "History of Australia"
+COUNT: 20 shorts, 19 longs
+
+===================================================
+
+"The Dreamstone—a gem associated with the characters Doctor Destiny and Dream of the Endless in the comics—plays a significant role in the film. The divisive reaction towards the final highlighted cut of Justice League, with Zack Snyder leaving directorial duties and the final cut of the film in the hands of Joss Whedon, has led to an argument comparing the situation to the one Richard Donner experienced with the films Superman II."
+n
+
+SOURCE: "DC Extended Universe"
+COUNT: 20 shorts, 19 longs
+
+===================================================
+
+"The Supreme Court was regarded as very unlikely to grant this petition, and even if they did, it would not alter the election outcome, since Biden would still have a majority of Electoral College votes without Pennsylvania. On December 9, Ken Paxton, the Attorney General of Texas, filed a lawsuit in the Supreme Court of the United States, asking the court to overturn the results in Michigan, Pennsylvania, Wisconsin, and Georgia."
+y
+
+SOURCE: "2020 United States presidential election"
+COUNT: 20 shorts, 20 longs
+
+===================================================
+
+FINISHED! Articles used:
+ - "2020 United States presidential election"
+ - "History of Palestine"
+ - "South African labour law"
+ - "Russo-Ukrainian War"
+ - "Manhattan"
+ - "Honorific nicknames in popular music"
+ - "Flint water crisis"
+ - "Conditional preservation of the saints"
+ - "United Kingdom"
+ - "2021 storming of the United States Capitol"
+ - "Erwin Rommel"
